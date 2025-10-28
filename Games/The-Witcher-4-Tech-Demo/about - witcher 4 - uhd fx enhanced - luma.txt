@@ -1,0 +1,40 @@
+This is a video capture of one of my ultra high definition post effects applied to a clip of the CD Projekt Witcher 4 UE5 tech demo. 
+
+It is an example of how a next generation, ultra high definition game could potentially look with my graphics enhancement technology.
+
+It features LUMA,  my "Virtual Illumination For Digital Images" tech, plus ultra fine detail enhancements, local contrast shadows, and color enhancers.
+
+In this sample, the lighting effect has been made a little brighter, in order to see the effects clearly. 
+
+(I do have versions of my shader effects that closely maintain parity with the original media's lighting, exposure, contrast and brightness levels).
+
+Although my post effects were applied to a video clip of the game/demo, my post effects are real-time an can be run on 3d games as well.
+
+If the post effects were run on the game in realtime, the results would look very similar to what is seen in the provided video clip (marked "enhanced").
+
+
+What to look for lighting and detail enhancements in the following areas:
+
+
+* Outdoor lighting, highlights, glint, light emission, radiance, glow, exposure effects
+
+* Self Contrast Shadowing
+
+* Fabric and clothing color, details, patterns, embroidery, stitching
+
+* Character skin tone, facial features, facial hair, hair fidelity and specular shine, eye color and specular shine
+
+* Animal skin detail and specular shine
+
+* Animal fur fidelity and specular shine 
+
+* Metal material shine and light reflection
+
+* Surface details and highlights - ground, flooring, panels, patterns
+
+* Natural Environments - sharper detailed trees and plant vegetation
+
+* Natural Elements - enhanced appearance of fire and water surfaces
+
+
+

@@ -1,0 +1,18 @@
+In this sample, I tried enhancing the trailer for the game grand theft auto 6 by rockstar games.
+
+The real-time post effects I researched and developed can be used in games, or also film and video.
+
+I am in the middle of trying to port it to game engines, like Unity and Unreal Engine.
+
+It is currently working under Reshade, a shader injector tool.
+
+
+The shader effect enhances the following:
+
+* light - makes light look closer to real world emissive physical light
+
+* shadow - enhances self contrast shadows
+
+* image detail - enhances fine image details, making the image sharper, clearer with better fidelity.
+
+* color - tonemapping and color vibrancy enhance the color richness
