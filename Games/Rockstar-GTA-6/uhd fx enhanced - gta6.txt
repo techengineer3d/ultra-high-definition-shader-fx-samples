@@ -1,3 +1,14 @@
+- DISCLAIMER - 
+
+This sample is for demonstrating graphics research and development work I have conducted.
+
+Unless specified, I have not worked on any of the game titles nor am i employed by or associated with the respective game development companies.
+
+Video content is used under FAIR USE.
+
+
+- ABOUT ENHANCED GTA 6 SAMPLE - 
+
 In this sample, I tried enhancing the trailer for the game grand theft auto 6 by rockstar games.
 
 The real-time post effects I researched and developed can be used in games, or also film and video.
@@ -6,6 +17,8 @@ I am in the middle of trying to port it to game engines, like Unity and Unreal E
 
 It is currently working under Reshade, a shader injector tool.
 
+
+- SHADER ENHANCEMENTS -
 
 The shader effect enhances the following:
 
@@ -16,3 +29,15 @@ The shader effect enhances the following:
 * image detail - enhances fine image details, making the image sharper, clearer with better fidelity.
 
 * color - tonemapping and color vibrancy enhance the color richness
+
+
+- VIDEO COMPARISON TOOL -
+
+To use the video comparison tool (NVidia ICAT), open the index.html file in any browser.
+
+The video comparison tool has 2 modes, side by side and split screen.
+
+There are various UI controls at the bottom for making the videos fit to your screen, zooming in and going full screen mode.
+
+There is also a UI for changing the image filtering from nearest neighbor to bilinear filtering.
+
